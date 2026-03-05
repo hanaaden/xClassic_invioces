@@ -262,9 +262,11 @@ export default function Invoice() {
             {/* BUSINESS DETAILS */}
 
             <div className="text-sm text-gray-600 mt-2">
-              <p>Phone: +252 63 3398288</p>
-              <p>Email: xclassicperfume@gmail.com</p>
-              <p>Location: Hargeisa, Somaliland</p>
+              
+              <p>Tell: 639117119 / 634557235 / 634486004</p>
+              <p>Merchant: 479274</p>
+eDahab: 758164
+              <p></p>
             </div>
 
           </div>
