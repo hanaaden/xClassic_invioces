@@ -83,7 +83,7 @@ export default function Invoice() {
             <Sparkles className="text-pink-500" size={28} />
 
             <div>
-              <h1 className="font-black text-xl">Xclassic Lady Perfume</h1>
+              <h1 className="font-black text-xl">Xclassic Perfume</h1>
               <p className="text-sm text-gray-500">Sales Invoice</p>
             </div>
           </div>
@@ -256,7 +256,7 @@ export default function Invoice() {
           <div>
 
             <h1 className="text-3xl font-black">
-              XCLASSIC LADY PERFUME
+              XCLASSIC PERFUME
             </h1>
 
             {/* BUSINESS DETAILS */}
